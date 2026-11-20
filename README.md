@@ -1,8 +1,8 @@
 # The World in One Image — 20 November 2026
 
-![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-17603A?style=flat-square)
-![submission](https://img.shields.io/badge/submission-news--image--20261120-B02A24?style=flat-square)
-![stdlib only](https://img.shields.io/badge/deps-none%20(stdlib%20only)-20583C?style=flat-square)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Dadapy04/news-image-20261120-b/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Dadapy04/news-image-20261120-b/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 ## The concept
 
